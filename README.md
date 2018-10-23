@@ -1,6 +1,6 @@
 # JuniorDev TGA Hacktoberfest!
 
-**Date**: October 23, 2018
+**Date**: Tuesday October 23, 2018
 
 **Location**: Basestation, 143 Durham Street, Tauranga, NZ
 
